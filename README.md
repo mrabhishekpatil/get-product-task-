@@ -49,7 +49,7 @@ http://localhost:8080/getproducts/1004
 http://localhost:8080/getproducts/1005
 ```
 
-### Create a hotel resource
+### Create a Product by getproducts
 
 ```
 GET /getproducts/1001
